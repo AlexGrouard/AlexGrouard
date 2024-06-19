@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexgrouard&label=Profile%20views&color=0e75b6&style=flat" alt="alexgrouard" /> </p>
 
-- 🔭 I’m currently working on **a Dashboard for my wife small business**
+- 🔭 I’m currently working on **a secret game project**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **alex.m.grouard@gmail.com**
 
